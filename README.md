@@ -1,4 +1,4 @@
-![Screenshot 2024-05-08 085106](https://github.com/anandsandy4623/softweb/assets/135193077/4e428ee4-3ed6-4da5-bb05-2e64c91beb71)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date:07/05/2024
 
 ## AIM:
